@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./assets/font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "Caligraphie";
+    src: url("./assets/font/Allura-Regular.ttf");
+}
+*{
+    font-family: 'Poppins';
+}
+html{
+    scroll-behavior: smooth;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.poppins {
+    font-family: 'Poppins';
+}
+.caligraphie {
+    font-family: "Caligraphie";
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 20px;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "titre": "DROIT CIVIL",
+    "description": "L’étude accompagne ses clients dans toutes les phases d’un litige, rédige des testaments et conseille sur la transmission de patrimoine. Assiste les héritiers dans le règlement de la succession et les représente en cas de litige. Conseille également sur la protection des créations et inventions, et représente en cas de violation des droits de propriété intellectuelle. Offre une assistance pour établir la filiation d'un enfant et représente en cas de contestation de la filiation."
+  },
+  {
+    "titre": "DROIT INTERNATIONAL",
+    "description": "Fournit des conseils juridiques spécialisés en droit international, notamment sur les investissements et l'arbitrage. Accompagne les investisseurs dans les transferts de technologies et les acquisitions de terrains, et intervient dans les fusions et acquisitions internationales. Propose des services de médiation et de négociation pour les litiges, et représente devant les tribunaux arbitraux."
+  },
+  {
+    "titre": "DROIT COMMERCIAL ET DROIT COMMERCIAL INTERNATIONAL",
+    "description": "Fournit des services juridiques complets en droit commercial national et international. Rédige les statuts des sociétés, conseille sur la forme juridique, et assiste dans la liquidation de sociétés. Agit en justice pour les litiges commerciaux, fournit des conseils sur les questions financières et bancaires, rédige des contrats commerciaux, et conseille sur les droits en matière d'assurance. Assiste dans les litiges douaniers et maritimes, et garantit la sécurité juridique dans l’agribusiness."
+  },
+  
+  {
+    "titre": "DROIT DU TRAVAIL",
+    "description": "Fournit des conseils juridiques complets en droit du travail, rédige des pactes d'actionnaires et des contrats conformes à la législation. Conseille sur les droits en matière d'assurance et assiste dans les litiges avec les compagnies d'assurance. Aide dans les démarches douanières et représente dans les litiges maritimes liés au travail. Offre des services juridiques pour les entreprises agroalimentaires, et conseille sur les droits aux prestations sociales. Assiste en cas de litige avec la sécurité sociale."
+  },
+  {
+    "titre": "DROIT PENAL",
+    "description": "Intervient dans tous les domaines du droit pénal, fournissant une assistance juridique à toutes les étapes de la procédure."
+  }
+]

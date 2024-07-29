@@ -1,0 +1,29 @@
+[
+  {
+    "titre": "REPRESENTATION LEGALE",
+    "description": "Une approche pragmatique et proactive "
+  },
+  {
+    "titre": "INTERVENTION GRACIEUSE",
+    "description": "Une  service qui se positionne en amont des contentieux "},
+  {
+    "titre": "NEGOCIATION A L’AMIABLE",
+    "description": "Priivilégie le dialogue et la recherche de solutions consensuelles"
+  },
+  {
+    "titre": "CONSEILS JURIDIQUES",
+    "description": "Négociation sur les accords et la prise de décisions importantes "
+  },
+  {
+    "titre": "PRO BONO",
+    "description": "Engagement à garantir l ' accès à la justice pour tous en proposant un service pro Bono.",
+    "beneficiaires": [
+      "Les personnes en difficulté financière",
+      "Les personnes à faible revenu"
+    ]
+  },
+  {
+    "titre": "REDACTION",
+    "description": "Opérationnelle et optimale"
+  }
+]
